@@ -1,7 +1,8 @@
 # Linked Lists Exercises
 
 In these exercises, I wrote methods for a linked list class.
-the methods include:
+the methods include:  
+
 ***push(val) :*** Appends a new node with value ***val*** to the tail. Returns undefined.
 
 ***unshift(val) :*** Add a new node with value ***val*** to the head. Returns undefined.
@@ -18,4 +19,6 @@ the methods include:
 
 ***removeAt(idx) :*** Remove & return value at position ***idx***. Throws error if index is invalid.  
 
-***average() :*** Given a linked list containing numbers, return the average of those numbers.
+***average() :*** Given a linked list containing numbers, return the average of those numbers.  
+
+For testing a jest file was provided
